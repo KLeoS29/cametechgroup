@@ -1,38 +1,37 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://cametechgroup.gatsbyjs.io/",
+    "title": "CAME TechGroup",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "author": "CAME TechGroup",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "",
+      "medium": "",
+      "linkedin": "",
+      "mail": ""
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "CAME TechGroup" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Services", "url": "/#services" },
+        { "label": "", "url": "" },
+        { "label": "", "url": "" }
       ],
       "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "openNewTab": false,
+        "label": "Contact Us",
+        "url": "/#contact"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "", "url": "/privacy" },
+        { "label": "", "url": "/imprint" }
       ]
     },
     "featureToggles": {
