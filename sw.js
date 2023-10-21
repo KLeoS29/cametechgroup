@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-28352693da7c02c2e59c.js"
+    "url": "webpack-runtime-69aaa03402d7510e24d8.js"
   },
   {
     "url": "styles.3ff7f319a889b4ce15cc.css"
@@ -36,15 +36,15 @@ self.__precacheManifest = [
     "url": "framework-c6b9d3178e03852a7d83.js"
   },
   {
-    "url": "app-2e0fca423ff4810900ed.js"
+    "url": "app-da55f4c12b1ae84e6be6.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "74f14b070cf3424bde3d9fc56e3945bb"
+    "revision": "3ddab6d14e7739deff7393fb698a2ecf"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "fc7dbf2bcd170f46016ebe35c2201141"
+    "revision": "6680ab1e29c31fde2544999cbcb2ceb2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -149,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/cametechgroup`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/cametechgroup/app-2e0fca423ff4810900ed.js`))) {
+  if (!resources || !(await caches.match(`/app-da55f4c12b1ae84e6be6.js`))) {
     return await fetch(event.request)
   }
 
@@ -167,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/cametechgroup/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
