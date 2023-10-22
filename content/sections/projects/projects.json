@@ -2,47 +2,53 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "Trainings",
+      "description": "Sharpen your saw. As the world is getting modern people must possess complex knowledge and skills. Our company promotes fundamental trainings as it is essential to solve complex problems. In this modern world, modern people must learn how to adapt and learn to various skillset relating to technology. CAME TechGroup offers training and seminars to deliver modern knowledge in the field of technology, engineering, and programming. Our company believes that learning is a continual process to provide effective and satisfactory output in different field.",
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+        "src": "../../images/came/training.jpg",
+        "alt": "Trainings"
+      }
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "title": "Website Development",
+      "description": "Maximize business, personal brand and information distribution by exposing it on the internet to reach people from different borders. If you believe in the quality products, services, and ideas that you have, you might as well share it by creating a website or platform. Our team has contributed system and website development from public sectors and private companies.",
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+        "src": "../../images/came/Website Development.jpg",
+        "alt": "Website Development"
+      }
+    },
+    {
+      "visible": true,
+      "title": "Software & Hardware Distributor",
+      "description": "Building bridge to the gap of the world that needs to sustain the technology by committing our company to distribute quality computer hardware and software. People in different field like in education, public sector and private entity must reach the modern technology efficiently and systematically deliver the needs in their field. To become competitive in the market and community, people need to understand the essential part of investing their time and money from computer hardware and software that will effectively enhance their capability to serve the quality output.",
+      "image": {
+        "src": "../../images/came/software and hardware.jpg",
+        "alt": "Software & Hardware Distributor"
+      }
+    },
+    {
+      "visible": true,
+      "title": "Engineering",
+      "description": "Our company is open to engage in engineering and architectural consultancy. With a team that has satisfactory skillset to provide in the market using the essential tools.",
+      "image": {
+        "src": "../../images/came/engineering.jpg",
+        "alt": "Engineering"
+      }
+    },
+    {
+      "visible": true,
+      "title": "Legal Services",
+      "description": "CAME TechGroup Company is committed to promote peace and justice in this modern period. Legal services relating to technological legal challenges is also offered. Legal compliance for business and for private entities.",
+      "image": {
+        "src": "../../images/came/legal services.jpg",
+        "alt": "Legal Services"
+      }
     }
   ],
   "button": {
-    "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "visible": false,
+    "label": "Send a message",
+    "url": "#"
   }
 }

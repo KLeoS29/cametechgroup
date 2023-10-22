@@ -1,28 +1,24 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://cametechgroup.gatsbyjs.io/",
+    "siteUrl": "https://www.cametechgroup.com/",
     "title": "CAME TechGroup",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "titleTemplate": "%s",
+    "description": "CAME TechGroup Company",
     "author": "CAME TechGroup",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "avatar": "../content/images/came/logo.png",
+    "bio": "We are a group of skilled individuals who have joint venture to create solutions for your business.",
     "social": {
-      "github": "",
-      "medium": "",
-      "linkedin": "",
-      "mail": ""
+      "mail": "mailto:came.techgroup@gmail.com"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "CAME TechGroup" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Services", "url": "/#services" },
-        { "label": "", "url": "" },
-        { "label": "", "url": "" }
+        { "label": "About Us", "url": "/#about" },
+        { "label": "Our Services", "url": "/#services" },
+        { "label": "What we offer", "url": "/#offers" }
       ],
       "ctaButton": {
         "openNewTab": false,

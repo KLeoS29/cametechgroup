@@ -3,56 +3,56 @@
     {
       "label": "Ecommerce",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/came/e-commerce.png",
         "alt": ""
       }
     },
     {
       "label": "Website Development",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/came/web dev.png",
         "alt": ""
       }
     },
     {
       "label": "Graphic Design",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/came/Graphic Design.png",
         "alt": ""
       }
     },
     {
       "label": "SEO",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/came/SEO.png",
         "alt": ""
       }
     },
     {
       "label": "Testing",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/came/Testing.png",
         "alt": ""
       }
     },
     {
       "label": "Deployment",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/came/Deployment.png",
         "alt": ""
       }
     },
     {
       "label": "Content Management",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/came/Content Management.png",
         "alt": ""
       }
     },
     {
       "label": "Custom Software",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/came/Custom Software.png",
         "alt": ""
       }
     }
