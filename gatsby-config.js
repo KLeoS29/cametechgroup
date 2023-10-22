@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: '/cametechgroup',
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
