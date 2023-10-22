@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.cametechgroup.com/cametechgroup/sitemap-index.xml
+Sitemap: https://www.cametechgroup.com/sitemap-index.xml
 Host: https://www.cametechgroup.com
