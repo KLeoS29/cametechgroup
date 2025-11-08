@@ -7,7 +7,7 @@
     "description": "CAME TechGroup Company",
     "author": "CAME TechGroup",
     "avatar": "../content/images/came/logo.png",
-    "bio": "We are a group of skilled individuals who have joint venture to create solutions for your business.",
+    "bio": "We are a group of skilled individuals who have formed a joint venture to create solutions for your business.",
     "social": {
       "mail": "mailto:came.techgroup@gmail.com"
     }
@@ -26,8 +26,8 @@
         "url": "/#contact"
       },
       "footer": [
-        { "label": "", "url": "/privacy" },
-        { "label": "", "url": "/imprint" }
+        { "label": "privacy", "url": "/privacy" },
+        { "label": "terms", "url": "/terms" }
       ]
     },
     "featureToggles": {

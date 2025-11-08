@@ -3,7 +3,7 @@
     {
       "visible": true,
       "title": "Trainings",
-      "description": "Sharpen your saw. As the world is getting modern people must possess complex knowledge and skills. Our company promotes fundamental trainings as it is essential to solve complex problems. In this modern world, modern people must learn how to adapt and learn to various skillset relating to technology. CAME TechGroup offers training and seminars to deliver modern knowledge in the field of technology, engineering, and programming. Our company believes that learning is a continual process to provide effective and satisfactory output in different field.",
+      "description": "Sharpen your saw. As the world is getting modern, people must possess complex knowledge and skills. Our company promotes fundamental trainings as they are essential to solving complex problems. In this modern world, modern people must learn how to adapt and learn various skillsets related to technology. CAME TechGroup offers training and seminars to deliver modern knowledge in the fields of technology, engineering, and programming. Our company believes that learning is a continual process to provide effective and satisfactory output in different fields.",
       "image": {
         "src": "../../images/came/training.jpg",
         "alt": "Trainings"
@@ -12,7 +12,7 @@
     {
       "visible": true,
       "title": "Website Development",
-      "description": "Maximize business, personal brand and information distribution by exposing it on the internet to reach people from different borders. If you believe in the quality products, services, and ideas that you have, you might as well share it by creating a website or platform. Our team has contributed system and website development from public sectors and private companies.",
+      "description": "Maximize business, personal brand, and information distribution by exposing it on the internet to reach people from different borders. If you believe in the quality products, services, and ideas that you have, you might as well share them by creating a website or platform. Our team has contributed to system and website development for public sectors and private companies.",
       "image": {
         "src": "../../images/came/Website Development.jpg",
         "alt": "Website Development"
@@ -21,7 +21,7 @@
     {
       "visible": true,
       "title": "Software & Hardware Distributor",
-      "description": "Building bridge to the gap of the world that needs to sustain the technology by committing our company to distribute quality computer hardware and software. People in different field like in education, public sector and private entity must reach the modern technology efficiently and systematically deliver the needs in their field. To become competitive in the market and community, people need to understand the essential part of investing their time and money from computer hardware and software that will effectively enhance their capability to serve the quality output.",
+      "description": "Building a bridge to the gap of the world that needs to sustain technology by committing our company to distribute quality computer hardware and software. People in different fields, such as education, the public sector, and private entities, must reach modern technology efficiently and systematically to deliver the needs of their field. To become competitive in the market and community, people need to understand the essential part of investing their time and money in computer hardware and software that will effectively enhance their capability to provide quality output.",
       "image": {
         "src": "../../images/came/software and hardware.jpg",
         "alt": "Software & Hardware Distributor"
@@ -30,7 +30,7 @@
     {
       "visible": true,
       "title": "Engineering",
-      "description": "Our company is open to engage in engineering and architectural consultancy. With a team that has satisfactory skillset to provide in the market using the essential tools.",
+      "description": "Our company is open to engaging in engineering and architectural consultancy, with a team that has a satisfactory skillset to provide in the market using essential tools.",
       "image": {
         "src": "../../images/came/engineering.jpg",
         "alt": "Engineering"
@@ -39,7 +39,7 @@
     {
       "visible": true,
       "title": "Legal Services",
-      "description": "CAME TechGroup Company is committed to promote peace and justice in this modern period. Legal services relating to technological legal challenges is also offered. Legal compliance for business and for private entities.",
+      "description": "CAME TechGroup Company is committed to promoting peace and justice in this modern period. Legal services relating to technological legal challenges are also offered, as well as legal compliance for businesses and private entities.",
       "image": {
         "src": "../../images/came/legal services.jpg",
         "alt": "Legal Services"
