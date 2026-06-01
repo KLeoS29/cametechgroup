@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_portfolio_minimal_theme=self.webpackChunkgatsby_starter_portfolio_minimal_theme||[]).push([[510],{5932:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var r=n(6540),l=n(341);function a(){return r.createElement(r.Fragment,null,r.createElement(l.G$,{title:"Terms & Legal",useTitleTemplate:!0,noIndex:!0}),r.createElement(l.YW,null,r.createElement(l.v3,{sectionId:"terms",heading:"Terms & Legal"})))}}}]);
+//# sourceMappingURL=component---src-pages-terms-js-5d1a91e6027650ebf4be.js.map
